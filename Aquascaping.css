@@ -1,0 +1,121 @@
+.principal
+{
+	width: 1450px;
+	height: 1750px;
+	background-color: black;
+}
+.image
+{
+	width: 1400px;
+	height: 900px;
+	background-image: url(aquas.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	float: left;
+}
+
+
+.Aquascaping
+{
+	color: white;
+	font-size: 90px;
+	text-align: center;
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 50;
+}
+
+.Everything
+{
+	color: #fff8f7;
+	font-size: 45px;
+	text-align: center;;
+  margin-top: 55px;
+  font-family: "Bona Nova SC", serif;
+  font-weight: 700;
+  font-style: normal;
+  background-color: black;
+}
+.homepage
+{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 50px;
+ 
+}
+.homepage1
+{
+	color:white;
+}
+.set
+{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.setup1
+{
+	color:white;
+}
+
+
+.plants
+{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.plants1
+{
+	color:white;
+}
+.fish
+{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 50px;
+ 
+}
+.fish1
+{
+	color:white;
+}
+.info
+{
+	width: 700px;
+	height: 550px;
+	background-color: black;
+	text-align: center;
+	font-size: 30px;
+	 font-family: "Dosis", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+	color: white;
+	float: left;
+}
+.video
+{
+	width: 500px;
+	height: 600px;
+	background-color: white;
+	text-align: center;
+	font-size: 80px;
+	float: left;
+	margin-top: 150px;
+}
+.A1
+{
+	width: 500px;
+	height: 600px;
+
+}
+
+
+

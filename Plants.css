@@ -1,0 +1,232 @@
+.principal
+{
+	width: 1460px;
+	height: 1560px;
+	background-color: #000205;
+	
+
+.title
+{
+width: 1460px;
+	height: 150px;
+	background-color: #000205 ;
+	text-align: center;
+	font-size: 100px;
+	float: left;
+	color:#fcfcfc ;
+  font-family: "Bona Nova SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+}
+
+.nav
+{
+	width: 150px;
+	height: 1380px;
+	background-color: #000205;
+	text-align: center;
+	font-size: 20px;
+	float: left;
+	color:#fcfcfc ;
+
+}
+.homepage
+{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 50px;
+ 
+}
+.homepage1
+{
+	color:white;
+}
+.setup
+{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.setup1
+{
+	color:white;
+}
+
+
+.plants
+{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 50px;
+}
+.plants1
+{
+	color:white;
+}
+.fish
+{
+	color: white;
+	text-align: left;
+	font-size: 20px;
+	margin-top: 50px;
+ 
+}
+.fish1
+{
+	color:white;
+}
+
+
+.line1
+{
+	width: 1150px;
+	height: 500px;
+	background-color: hotpink;
+	text-align: center;
+	font-size: 80px;
+	float: left;
+}
+.box1
+{
+	width: 575px;
+	height: 500px;
+	background-color:#000205 ;
+	text-align: center;
+	font-size: 40px;
+	float: left;
+}
+.Pl1
+{
+	width: 600px;
+	height: 550px;
+}
+
+.box2
+{
+	width: 575px;
+	height: 500px;
+	background-color: blue;
+	text-align: center;
+	font-size: 80px;
+	float: left;
+}
+.Pl2
+
+{
+width: 575px;
+height: 500px;
+}	
+
+.textline
+{
+	width: 1300px;
+	height: 190px;
+	background-color: #green;
+}
+.textline2
+{
+	width: 1300px;
+	height: 190px;
+	background-color: #green;
+}
+.info1
+{
+	width: 575px;
+	height: 190px;
+	background-color: #000205;
+	text-align: left;
+	font-size: 18px;
+	color: #fcfcfc; 
+	float: left;
+	font-family: "Dosis", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.info2
+{
+	width: 575px;
+	height: 190px;
+	background-color: #000205;
+	text-align: left;
+	font-size: 18px;
+	float: left;
+	color: #fcfcfc;;
+	font-family: "Dosis", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.line2
+{
+	width: 1150px;
+	height: 500px;
+	background-color: grey;
+	text-align: center;
+	font-size: 80px;
+	float: left;
+}
+.Pl3
+
+{
+width: 600px;
+height: 550px;
+}	
+.Pl4
+
+{
+width: 575px;
+height: 500px;}	
+.box3
+{
+	width: 575px;
+	height: 500px;
+	background-color: green;
+	text-align: center;
+	font-size: 80px;
+	float: left;
+}
+
+.box4
+{
+	width: 575px;
+	height: 500px;
+	background-color: #000205;
+	text-align: center;
+	font-size: 80px;
+	float: left;
+}
+.info3
+{
+	width: 575px;
+	height: 190px;
+	background-color:#000205 ;
+	text-align: left;
+	font-size: 16px;
+	float: left;
+	color: #fcfcfc;
+	font-family: "Dosis", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.info4
+{
+	width: 575px;
+	height: 190px;
+	background-color: #000205 ;
+	text-align: left;
+	font-size: 17px;
+	float: left;
+	color: #fcfcfc;
+	font-family: "Dosis", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
